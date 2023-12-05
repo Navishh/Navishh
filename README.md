@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+  <img src="https://github.com/Navishh/Navishh/assets/119093783/c0d1dd49-0cc0-4d6d-9240-7c41d662fe03.gif" style="width: 100%;" alt="Alt Text">
+</div>
 
 <h1 align="center">こんにちは, I'm Navish</h1>
 <h3 align="center">Frontend developer</h3>
@@ -6,11 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/navishhhhh11" target="blank"><img src="https://img.shields.io/twitter/follow/navishhhhh11?logo=twitter&style=for-the-badge" alt="navishhhhh11" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Next JS**
-
-- 💬 Ask me about **HTML, CSS,JS, Talwind**
-
-- 📫 How to reach me **navishkanuwan11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
