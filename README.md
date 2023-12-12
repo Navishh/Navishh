@@ -1,7 +1,12 @@
-<div style={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+<div style={{ width: '100%', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img
-    src="https://github.com/Navishh/Navishh/assets/119093783/c0d1dd49-0cc0-4d6d-9240-7c41d662fe03.gif" style={{ width: '100%' }} alt="lofi"/>
+    src="https://github.com/Navishh/Navishh/assets/119093783/c0d1dd49-0cc0-4d6d-9240-7c41d662fe03.gif"
+    style={{ width: '100%', ', objectFit: 'cover' }}
+    alt="lofi"
+  />
 </div>
+
+
 
 
 <h1 align="center">こんにちは, I'm Navish</h1>
