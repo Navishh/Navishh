@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; items-center;">
   <img src="https://github.com/Navishh/Navishh/assets/119093783/c0d1dd49-0cc0-4d6d-9240-7c41d662fe03.gif" style="width: 100%;" alt="Alt Text">
 </div>
 
