@@ -22,4 +22,3 @@
 
 
 
-![snake gif](https://github.com/Navishh/Navishh/blob/output/github-contribution-grid-snake.svg)
