@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navishh&label=Profile%20views&color=0e75b6&style=flat" alt="navishh" /> </p>
 
-<p align="left">
+<p align="left" gap="100">
 <a href="https://twitter.com/navishhhhh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navishhhhh11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navishhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navishhh" height="30" width="40" /></a>
 <a href="https://instagram.com/navishhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navishhhhh" height="30" width="40" /></a>
