@@ -20,7 +20,6 @@ Styling Tools: Tailwind CSS, ShadCN UI
 Languages: HTML, CSS, JavaScript, TypeScript, Dart
 Design Tools: Figma, Canva  
 ```
-![GitHub Snake Game](https://github.com/Navishh/Navishh/raw/output/github-snake.svg)
 
  
 
