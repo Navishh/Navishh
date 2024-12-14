@@ -7,7 +7,7 @@ I drink a lotta coffeee
 
 ```yaml
 name: Navishka Malalage
-education: ["B.Sc. in Software Engineering"]
+education: ["BSc(Hons) Software Engineering"]
 interests: ["Full Stack Development", "UI/UX Designing"]
 currently_learning: ["Cloud Computing"]  
 ```
