@@ -7,9 +7,9 @@ I drink a lotta coffeee
 
 ```yaml
 name: Navishka Malalage
-education: ["BSc(Hons) Software Engineering"]
-interests: ["Full Stack Development", "UI/UX Designing"]
-currently_learning: ["Cloud Computing"]  
+education: BSc(Hons) Software Engineering
+interests: Full Stack Development | UI/UX Designing
+currently_learning: Cloud Computing  
 ```
 ```yaml
 Frameworks & Libraries: React, React-Vite, Next.js, Node.js, Express.js  
