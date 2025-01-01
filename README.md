@@ -9,18 +9,16 @@ I drink a lotta coffeee
 name: Navishka Malalage
 education: BSc(Hons) Software Engineering
 interests: Full Stack Development | UI/UX Designing
-currently_learning: Cloud Computing  
 ```
 ```yaml
-Frameworks & Libraries: React, React-Vite, Next.js, Node.js, Express.js  
-Databases: MySQL, PostgreSQL, MongoDB, Firebase  
-API Testing: Postman  
-Containerization & Deployment: Docker
-Styling Tools: Tailwind CSS, ShadCN UI
-Languages: HTML, CSS, JavaScript, TypeScript, Dart
-Design Tools: Figma, Canva  
+Tech Stack: React | React-Vite | Next.js | Node.js | Express.js
+            MySQL | PostgreSQL | MongoDB | Firebase |  Postman  
+            Docker| Framer | Tailwind | ShadCN UI | js | ts 
+            Figma | Canva  
 ```
-
+```yaml
+shell : /usr/bin/bash
+```
  
 
 
