@@ -1,7 +1,5 @@
 <p>Ayubowan! | こんにちは</p>
 
-Chips: [@navishhhhhh](https://github.com/navishhhhhh)
-
 ```yaml
 I drink a lotta coffeee
 ```
@@ -21,7 +19,7 @@ Tech Stack: React | React-Vite | Next.js | Node.js | Express.js
 ```yaml
 shell : /usr/bin/bash
 ```
- 
+chips: [@navishhhhhh](https://github.com/navishhhhhh)
 
 
 
