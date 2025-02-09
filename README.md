@@ -1,5 +1,7 @@
 <p>Ayubowan! | こんにちは</p>
 
+Chips: [@navishhhhhh](https://github.com/navishhhhhh)
+
 ```yaml
 I drink a lotta coffeee
 ```
